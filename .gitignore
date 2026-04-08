@@ -1,0 +1,15 @@
+#Compiled files
+*.o
+*.exe
+*.out
+*.a
+*.so
+
+# Executable (your program name)
+a
+
+# IDE files
+*.swp
+*.swo
+*~
+.DS_Store
